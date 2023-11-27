@@ -10,40 +10,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b93faf7f-77aa-43ee-8e4d-17347c5bd013" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/../../ExcelSplitTool-master/ExcelSplitTool-master.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../InquirySend/InquirySend.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../RGXJ/RGXJ_20190401.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../SendBJ_20210617/IqSend.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../SendHt/SendHt.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../SendInquiry.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Sendht2022/SendHt2022.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sendht2022 - 副本/SendHt2022.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBootDemo1-master/.idea/SpringBootDemo1-master.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBootDemo1-master/SpringBootDemo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sr24email_v3/src/com/silkroad24/Silkroad24email.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sr24email_v3/src/com/silkroad24/TestJ2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SrEmailService/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SrEmailService/src/main/java/com/silkroad24/EmailSenderK.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SrEmailService/src/main/java/com/silkroad24/Entity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SrEmailService/src/main/java/com/silkroad24/ExportApi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SrEmailService/src/main/java/com/silkroad24/InquirySend.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SrEmailService/src/main/java/com/silkroad24/InquirySend_Kevin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SrEmailService/src/main/java/com/silkroad24/IqEmail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SrEmailService/src/main/java/com/silkroad24/Jdbc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../byteluckattach/demo/.idea/demo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../byteluckattach/demo/src/main/java/com/example/entity/SQLServerJDBC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/silkroad24/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/silkroad24/TestJ.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/silkroad24/sr24email.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-demo-main/src/main/java/com/silkroad24/Btd2Bs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-demo-main/src/main/java/com/silkroad24/IQ2BTD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../jietongda-master/jietongda-master/jietongda.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../wmcl/wmcl.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../xierke_new_36769/.idea/xierke_new_36769.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../xlsplit/xlsplit.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../yjt/DD2gys_20200702/DD2gys_20190705.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../HastenList - 副本/HastenList/Form1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../HastenList - 副本/HastenList/Form1.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/silkroad24email.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +30,10 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -69,37 +41,33 @@
         <option name="userSettingsFile" value="D:\Program Files\maven\conf\Settings.Xml" />
       </MavenGeneralSettings>
     </option>
-    <option name="enabledProfiles">
-      <list>
-        <option value="nexus" />
-      </list>
-    </option>
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
   <component name="ProjectId" id="2YQeNEWovRi4L4D2Ymz7x757SxN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;库&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.35632184&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "模块",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.35632184",
+    "settings.editor.selected.configurable": "MavenSettings",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="应用程序.sr24email">
+}]]></component>
+  <component name="RunManager" selected="应用程序.Test">
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.silkroad24.Test" />
       <module name="silkroad24email" />
@@ -139,10 +107,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.sr24email" />
         <item itemvalue="应用程序.Test" />
+        <item itemvalue="应用程序.sr24email" />
         <item itemvalue="应用程序.TestJ" />
       </list>
     </recent_temporary>
@@ -165,10 +144,22 @@
       <workItem from="1700532611055" duration="9639000" />
       <workItem from="1700553005149" duration="130000" />
       <workItem from="1700553154340" duration="546000" />
+      <workItem from="1701076405041" duration="345000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
